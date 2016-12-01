@@ -1,6 +1,8 @@
 # owasp-test
 
-Proyecto copiado de https://github.com/chuckfw/owaspbwa y adaptado para agregar soporte para Maven para los source code ejemplo.
+Proyecto copiado de https://github.com/chuckfw/owaspbwa y adaptado para agregar soporte para Maven para los source code de ejemplo.
+
+Se acepta la colaboración de un Pull Request al mencionado proyecto con la información contenida en este repo :D.
 
 ## Requisitos
 
@@ -32,5 +34,5 @@ mvn -Dsonar.host.url=http://localhost:9000 sonar:sonar
    mvn -Dsonar.host.url=http://localhost:9000 sonar:sonar
 
    ```
-5. `$ ./maven-sonar.sh`
+5. `$ . maven-sonar.sh`
 6. Acceder a: http://localhost:9000
