@@ -2,7 +2,7 @@
 
 Proyecto copiado de https://github.com/chuckfw/owaspbwa y adaptado para agregar soporte para Maven para los source code de ejemplo.
 
-Se acepta la colaboración de un Pull Request al mencionado proyecto con la información contenida en este repo :D.
+Se acepta la colaboración de un Pull Request al mencionado proyecto, ofreciendo la adaptación a Maven contenida en este repo :D.
 
 ## Requisitos
 
